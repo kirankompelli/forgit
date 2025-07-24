@@ -9,7 +9,7 @@ public class one {
     
 
      System.out.println("one.java file");
-     System.out.println("one.java file for forgit2");
+     System.out.println("one.java file for forgit3");
 }
 
 }
